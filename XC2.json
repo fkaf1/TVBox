@@ -81,7 +81,7 @@
 	
 		{
             "key": "csp_xBPQ_香蕉超清",
-            "name": "🏆香蕉超清",
+            "name": "🏆香蕉超清优",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -90,6 +90,26 @@
             "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json","jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
         },	
 		
+ {
+    "key": "csp_xBPQ_西瓜优",
+    "name":"西瓜优",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+   "playerType":2,
+ "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/xjsp.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+ {
+    "key": "csp_xBPQ_麻豆映画优",
+    "name":"麻豆映画优",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+   "playerType":2,
+ "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/yinghua.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
 		
 		
 		
@@ -213,16 +233,7 @@
             "filterable": 0,
             "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/吸瓜.js","jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
         },
-	 {
-    "key": "csp_xBPQ_西瓜",
-    "name":"西瓜",
-    "type": 3,
-    "api": "csp_xBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-   "playerType":2,
- "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/xjsp.json"},
+
         {
             "key": "dr_朱古力",
             "name": "朱古力(道长)",
